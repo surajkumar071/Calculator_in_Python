@@ -1,7 +1,7 @@
 a = int(input("Enter First Number : "))
 b = int(input("Enter Second Number : "))
 list =['add','sub','multiply','divide']
-c = input("Choose your operation : ")
+c = input("Choose  operation : ")
 
 for i in list:
     if (i == c):
