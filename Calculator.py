@@ -3,7 +3,7 @@ b = int(input("Enter Second Number :- "))
 list =['addition','subtraction','multiplication','divide']
 c = input("Choose  operation : ")
 
-for i in list    :
+for i in list  :
     if (i == c):
         if(i == 'addition'):
             print(a+b)
