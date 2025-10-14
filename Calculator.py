@@ -1,4 +1,4 @@
-a = int(input("Enter First Number :- ")     BH.  kn.    )
+a = int(input("Enter First Number :- ")     BH.  k    )
 b = int(input("Enter Second Number :- "))
 list =['addition','subtraction','multiplication','divide']
 c = input("Choose  operation : ")
