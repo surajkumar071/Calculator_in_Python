@@ -1,6 +1,5 @@
 
-vv. nn. frd.  how 
-
+vv. nn. frd.
 
 
 a = int(input("Enter First Number :- "))
