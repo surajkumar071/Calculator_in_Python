@@ -1,5 +1,5 @@
 
-vv. nn. frd.  hy. hi. dev. jk.  gf. kk. 
+vv. nn. frd.  hy. hi. dev. jk.  gf.
 
 
 
