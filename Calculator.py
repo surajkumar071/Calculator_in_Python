@@ -2,7 +2,7 @@
 
 
 
-f u n me kn
+f u 
 
 
 
