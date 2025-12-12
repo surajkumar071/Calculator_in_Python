@@ -2,12 +2,6 @@
 
 
 
-f u 
-
-
-
-
-
 a = int(input("Enter First Number :- "))
 b = int(input("Enter Second Number :- "))
 list =['addition','subtraction','multiplication','divide']
