@@ -2,7 +2,7 @@
 
 
 
-f di hb to the same person who is
+f di hb to the same pers
 
 
 
