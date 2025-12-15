@@ -2,7 +2,7 @@
 
 
 
-f di hb to the same person who is the best for your exams and 
+f di hb to the same person who is the best for your ex
 
 
 
