@@ -3,8 +3,7 @@
 
 
 
-dad to take care about y
-
+dad to take c
 
 
 
