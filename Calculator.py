@@ -3,8 +3,7 @@
 
 
 
-dad to take care about you are t
-
+dad to take care about y
 
 
 
