@@ -3,8 +3,7 @@
 
 
 
-dad to take c
-
+dad to
 
 
 a = int(input("Enter First Number :- "))
