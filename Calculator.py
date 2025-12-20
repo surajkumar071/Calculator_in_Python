@@ -3,7 +3,7 @@
 
 
 
-dad to take care about you are the most important to us in th
+dad to take care about you are the most important to
 
 
 
