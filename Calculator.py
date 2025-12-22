@@ -3,9 +3,7 @@
 
 
 
-FFF to t
-
-
+FF
 
 
 a = int(input("Enter First Number :- "))
