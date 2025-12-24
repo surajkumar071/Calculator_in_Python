@@ -2,7 +2,7 @@
 
 
 
-SFS setting the stage of the day of the day of the day 
+SFS setting the stage of the day of the day 
 
 
 
