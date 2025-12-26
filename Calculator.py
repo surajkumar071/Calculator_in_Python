@@ -1,7 +1,7 @@
 
 
 
-DDD or f a r a 
+DDD or f
 
 
 
