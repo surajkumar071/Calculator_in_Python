@@ -1,8 +1,7 @@
 
 
 
-DDD or f
-
+DDD 
 
 
 a = int(input("Enter First Number :- "))
