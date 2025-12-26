@@ -1,8 +1,7 @@
 
 
 
-DDD or f a r a b c d e ggg hai na 
-
+DDD or f a r a b c d e g
 
 
 
