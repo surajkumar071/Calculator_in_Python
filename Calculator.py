@@ -1,7 +1,7 @@
 
 
 
-DDD or f a r a b c d e ggg hai na ki korbo 
+DDD or f a r a b c d e ggg hai na 
 
 
 
