@@ -1,4 +1,12 @@
 
+
+
+DDD or f a r a b c d e ggg hai na ki korbo bujte parsi na ho 
+
+
+
+
+
 a = int(input("Enter First Number :- "))
 b = int(input("Enter Second Number :- "))
 list =['addition','subtraction','multiplication','divide']
